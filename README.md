@@ -3,7 +3,7 @@
 ### The problem
 "Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?"
 
-### My Explonation
+### My Explanation
 When you pick your door there is a 33.3% chance that each door is the car. The group of the other 2 doors that you didn't pick have a 66.6% chance of conataing the car. When the host reveals door 3 showing that it is a goat, door 2 is still a 66.6% chance of being a car becasuse it is still 2 > 1 and if a car was in one of the two slots one would still be a goat such as the one just revealed. Obviously door 2 in this case deems you a better chance of winning and this program demonstates that.
 
 ### Whats this program shows
